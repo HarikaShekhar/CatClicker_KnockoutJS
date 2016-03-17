@@ -1,0 +1,13 @@
+.mainHeading {
+	text-align: center;
+	font-size: 30px;
+}
+.catList {
+	float: right;
+	margin-right: 30px;
+	font-size: 25px;
+}
+
+.cats {
+	list-style-type: none;
+}
